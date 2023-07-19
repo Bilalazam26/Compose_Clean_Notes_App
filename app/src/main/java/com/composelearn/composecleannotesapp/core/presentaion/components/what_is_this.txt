@@ -1,0 +1,3 @@
+The core package contains some shared things :
+    like some components that will be shared among multiple features.
+    !! But we don't need this for now because we have only one feature !!
